@@ -1,4 +1,4 @@
-# ColUniv-KinaseInhibitor
+# ColUniv-IEOR4578-FNL-Project3
 
 ## Project Title: 
 Generating Molecular Features for Kinase Inhibitor Classification
